@@ -1,5 +1,4 @@
-# Hiya! 🌟
-## I'm Kolya
+# Hiya! 🌟im kolya
 
 ![Kolya's Github Stats](https://github-readme-stats.vercel.app/api?username=kolyaventuri&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolyaventuri&layout=compact)
